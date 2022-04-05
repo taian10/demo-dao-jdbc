@@ -1,0 +1,3 @@
+Apredendendo sobre Conexão MySql(Acesso ao Banco de Dados), JDBC, Implementação DAO, Interfaces, ResultSet, PrepareStatement, executeQuery(), ArrayList<>, tratamento de exceções e muito mais...
+
+Foi criando uma conexão com banco de dados MySql usando JDBC.
